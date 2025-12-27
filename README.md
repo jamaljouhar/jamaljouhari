@@ -2,7 +2,7 @@
 <h3 align="center">JavaScript Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamaljouhari&theme=darkhub&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jamaljouhari"/>
 </p>
 
 
