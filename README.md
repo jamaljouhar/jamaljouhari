@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hello, I'm Jamal Jouhari</h1>
-<h3 align="center">JavaScript Enthusiast | Web Developer</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Fun" width="300"/>
-</p>
+<h3 align="start">JavaScript Enthusiast | Web Developer</h3>
 
 
 ---
