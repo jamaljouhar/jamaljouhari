@@ -2,8 +2,9 @@
 <h3 align="center">JavaScript Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <img src="https://i.imgflip.com/4/4t0m5.jpg" alt="Programming Meme" width="300"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding Fun" width="300"/>
 </p>
+
 
 ---
 ## 🚀 About Me
