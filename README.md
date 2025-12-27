@@ -9,22 +9,15 @@ JavaScript Enthusiast | Web Developer
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently working on **Employee Management System**
-- 🌱 Learning **React.js, Laravel, Spring Boot, .NET**
-- 👯 Open to collaborate on **Mobile Applications**
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/jamal-jouhari" target="_blank"  style="margin-right:50px;">
+  <a href="https://linkedin.com/in/jamal-jouhari" target="_blank" style="margin-right:50px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://facebook.com/jamal.jouhari" target="_blank"  style="margin-right:50px;">
+  <a href="https://facebook.com/jamal.jouhari" target="_blank" style="margin-right:50px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
   </a>
-  <a href="https://instagram.com/jamal_jouhar02" target="_blank" style="margin-right:50px;>
+  <a href="https://instagram.com/jamal_jouhar02" target="_blank" style="margin-right:50px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
 </p>
@@ -35,38 +28,38 @@ JavaScript Enthusiast | Web Developer
 
 ### 🎨 Frontend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" style="margin-right:50px;/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="margin-right:50px;/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin-right:50px;/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="margin-right:50px;/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" style="margin-right:50px;/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="70" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" style="margin:10px 40px;"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" style="margin-right:50px;/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="margin-right:50px;/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin-right:50px;/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin-right:50px;/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" style="margin-right:50px;/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" style="margin-right:50px;/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" style="margin:10px 40px;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" style="margin:10px 40px;"/>
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70" style="margin-right:50px;/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="70" style="margin-right:50px;/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="70" style="margin:10px 40px;"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="70" style="margin:10px 40px;"/>
 </p>
 
 ---
 
 ## ☕ Support Me
 <p align="center">
-  <a href="https://www.buymeacoffee.com/jamaljouhari" target="_blank" style="margin-right:50px;>
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  <a href="https://www.buymeacoffee.com/jamaljouhari" target="_blank" style="margin-right:40px;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45"/>
   </a>
-  <a href="https://ko-fi.com/jamal_jouhari" target="_blank" style="margin-right:50px;>
+  <a href="https://ko-fi.com/jamal_jouhari" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="45"/>
   </a>
 </p>
