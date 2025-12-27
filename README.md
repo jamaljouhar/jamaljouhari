@@ -2,12 +2,10 @@
 <h3 align="center">JavaScript Enthusiast | Web Developer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Coding Fun" width="300"/>
+  <img src="https://i.imgflip.com/4/4t0m5.jpg" alt="Programming Meme" width="300"/>
 </p>
 
-
 ---
-
 ## 🚀 About Me
 - 🔭 Currently working on **Employee Management System**
 - 🌱 Learning **React.js, Laravel, Spring Boot, .NET**
